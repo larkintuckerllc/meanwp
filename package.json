@@ -1,0 +1,7 @@
+{
+  "name": "meanwp",
+  "dependencies": {
+    "express": "^4.13.0",
+    "form-data": "^1.0.0-rc1"
+  }
+}
